@@ -1,4 +1,4 @@
-# create react app without CRA(create-react-app)
+# create react app from scratch without CRA(create-react-app)
 
 ## `Base Support`
 
