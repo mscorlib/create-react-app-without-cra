@@ -77,7 +77,7 @@ module:{
 
 ### 1. add typescript
 ```bash
-yarn add typescript @types/node @types/react @types/react-dom @types/jest
+yarn add -D typescript @types/node @types/react @types/react-dom @types/jest
 ```
 
 ### 2. add the tsconfig.json
