@@ -120,7 +120,7 @@ or create a file: tsconfig.json
 
 ### 3. add ts-loader
 ```
-ts-loader
+yarn add ts-loader -D
 ```
 
 ### 4. update webpack.config.js
