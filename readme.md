@@ -155,6 +155,10 @@ resolve: {
 ```bash
 yarn add css-loader html-loader sass sass-loader style-loader -D
 ```
+or
+```bash
+yarn add css-loader html-loader less less-loader style-loader -D
+```
 
 ### update webpack.config.js
 ```js
